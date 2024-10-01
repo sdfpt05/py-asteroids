@@ -20,6 +20,7 @@ python main.py
 - Multiplayer mode
 - Additional power-ups and enemy types
 - Level editor for custom asteroid fields
+- Better music?
 
 ## License
 
